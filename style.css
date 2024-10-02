@@ -2,8 +2,13 @@
 {
     body
     {
-        background-image:none;
+        background-image:no-repat;
     }
+    h1
+    {
+        font-size:auto;
+    }
+    
 }
 
     body
